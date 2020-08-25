@@ -1,0 +1,63 @@
+id,name,party,partyLabel,votes,election,electionLabel,ranking
+Q332374,Liam Fox,Q9626,Conservative Party (UK),32801,Q30173038,General election 2019,1
+,Hannah Young,Q9630,Labour Party (UK),15265,Q30173038,General election 2019,2
+,Ashley Cartman,Q9624,Liberal Democrats (UK),11051,Q30173038,General election 2019,3
+,Phil Neve,Q9669,Green Party of England and Wales,2938,Q30173038,General election 2019,4
+Q332374,Liam Fox,Q9626,Conservative Party (UK),33605,Q25052149,General election 2017,1
+,Greg Chambers,Q9630,Labour Party (UK),16502,Q25052149,General election 2017,2
+,Richard Foord,Q9624,Liberal Democrats (UK),5982,Q25052149,General election 2017,3
+,Donald Davies,Q327591,Independent (politician),3929,Q25052149,General election 2017,4
+,Charley Pattison,Q9669,Green Party of England and Wales,1976,Q25052149,General election 2017,5
+Q332374,Liam Fox,Q9626,Conservative Party (UK),31540,Q3586935,General election 2015,1
+,Greg Chambers,Q9630,Labour Party (UK),8441,Q3586935,General election 2015,2
+,Ian Kealey,Q10647,UK Independence Party,7669,Q3586935,General election 2015,3
+,Marcus Kravis,Q9624,Liberal Democrats (UK),7486,Q3586935,General election 2015,4
+,David Derbyshire,Q9669,Green Party of England and Wales,3806,Q3586935,General election 2015,5
+Q332374,Liam Fox,Q9626,Conservative Party (UK),28549,Q215622,General election 2010,1
+,Brian Mathew,Q9624,Liberal Democrats (UK),20687,Q215622,General election 2010,2
+,Steve Parry-Hearn,Q9630,Labour Party (UK),6448,Q215622,General election 2010,3
+,Sue Taylor,Q10647,UK Independence Party,2257,Q215622,General election 2010,4
+Q334578,Paul Dean,Q9626,Conservative Party (UK),43173,Q918450,General election 1979,1
+,AJ Smith,Q9630,Labour Party (UK),22122,Q918450,General election 1979,2
+,D Sanders,Q622441,Liberal Party (UK),12898,Q918450,General election 1979,3
+,R Carder,Q15980875,Ecology Party (UK),1254,Q918450,General election 1979,4
+Q334578,Paul Dean,Q9626,Conservative Party (UK),32146,Q918508,General election October 1974,1
+,HR White,Q9630,Labour Party (UK),22671,Q918508,General election October 1974,2
+,JM Bourne,Q622441,Liberal Party (UK),16428,Q918508,General election October 1974,3
+,JK Polling,,United Democratic,387,Q918508,General election October 1974,4
+Q334578,Paul Dean,Q9626,Conservative Party (UK),34576,Q119524,General election February 1974,1
+,HR White,Q9630,Labour Party (UK),22421,Q119524,General election February 1974,2
+,JM Bourne,Q622441,Liberal Party (UK),18023,Q119524,General election February 1974,3
+Q334578,Paul Dean,Q9626,Conservative Party (UK),38975,Q918442,General election 1970,1
+,John T Mitchard,Q9630,Labour Party (UK),28121,Q918442,General election 1970,2
+Q334578,Paul Dean,Q9626,Conservative Party (UK),28824,Q918430,General election 1966,1
+,Brian Tilley,Q9630,Labour Party (UK),26526,Q918430,General election 1966,2
+,Mark E Willies,Q622441,Liberal Party (UK),6745,Q918430,General election 1966,3
+Q334578,Paul Dean,Q9626,Conservative Party (UK),27814,Q220208,General election 1964,1
+,DT White,Q9630,Labour Party (UK),23896,Q220208,General election 1964,2
+,Mark E Willies,Q622441,Liberal Party (UK),8253,Q220208,General election 1964,3
+Q5346605,Ted Leather,Q9626,Conservative Party (UK),30432,Q918420,General election 1959,1
+,E Fraser Wilde,Q9630,Labour Party (UK),23649,Q918420,General election 1959,2
+Q5346605,Ted Leather,Q9626,Conservative Party (UK),26985,Q918412,General election 1955,1
+Q62858014,David Llewellyn,Q9630,Labour Party (UK),22802,Q918412,General election 1955,2
+Q5346605,Ted Leather,Q9626,Conservative Party (UK),27465,Q3722280,General election 1951,1
+,Robert J Hurst,Q9630,Labour Party (UK),24917,Q3722280,General election 1951,2
+Q5346605,Ted Leather,Q9626,Conservative Party (UK),23953,Q748667,General election 1950,1
+Q17444701,Xenia Field,Q9630,Labour Party (UK),23050,Q748667,General election 1950,2
+,Albert Ernest Whitcher,Q622441,Liberal Party (UK),5573,Q748667,General election 1950,3
+Q5415419,Evan Henry Llewellyn,Q9626,Conservative Party (UK),4170,Q3397257,General election 1885,1
+Q5345480,Edward Strachey,Q622441,Liberal Party (UK),3491,Q3397257,General election 1885,2
+Q5415419,Evan Henry Llewellyn,Q9626,Conservative Party (UK),4252,Q7888016,General election 1886,1
+,James Dormer Marshall,Q622441,Liberal Party (UK),2087,Q7888016,General election 1886,2
+Q7526366,Courtenay Warner,Q622441,Liberal Party (UK),3920,Q7888018,General election 1892,1
+Q5415419,Evan Henry Llewellyn,Q9626,Conservative Party (UK),3901,Q7888018,General election 1892,2
+Q5415419,Evan Henry Llewellyn,Q9626,Conservative Party (UK),4652,Q7888019,General election 1895,1
+Q7526366,Courtenay Warner,Q622441,Liberal Party (UK),3966,Q7888019,General election 1895,2
+Q5415419,Even Llewellyn,Q9626,Conservative Party (UK),4530,Q918358,General election 1900,1
+Q16043743,William Hope,Q622441,Liberal Party (UK),4014,Q918358,General election 1900,2
+Q16043743,William Hope,Q622441,Liberal Party (UK),6626,Q3076606,General election 1906,1
+Q8015204,William Mason,Q9626,Conservative Party (UK),4380,Q3076606,General election 1906,2
+Q6284610,Joseph King,Q622441,Liberal Party (UK),6568,Q3075752,General election January 1910,1
+,Frank Beachim Beauchamp,Q9626,Conservative Party (UK),5768,Q3075752,General election January 1910,2
+Q6284610,Joseph King,Q622441,Liberal Party (UK),6299,Q3076583,General election December 1910,1
+,Frank Beachim Beauchamp,Q9626,Conservative Party (UK),5378,Q3076583,General election December 1910,2
