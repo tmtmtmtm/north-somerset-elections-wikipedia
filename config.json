@@ -1,0 +1,24 @@
+{
+  "wikipedia": "https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)",
+  "wikidata": [{
+    "id": "Q1052235",
+    "start": "2010",
+    "end": "9999"
+  }, {
+    "id": "Q42297573",
+    "start": "1950",
+    "end": "1983"
+  }, {
+    "id": "Q42297626",
+    "start": "1885",
+    "end": "1918"
+  }],
+  "combofile": "combo.csv",
+  "new_person_description": "UK election candidate",
+  "mapping": {
+    "election": {
+    },
+    "party" : {
+    }
+  }
+}
