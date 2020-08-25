@@ -84,12 +84,7 @@ LAST	Den	"UK election candidate"
 LAST	P106	Q19772737
 LAST	P3602	Q918508	P768	Q42297573	P102	Q9630	P1111	22671	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)"
 LAST	P3602	Q119524	P768	Q42297573	P102	Q9630	P1111	22421	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)"
-CREATE
-LAST	P31	Q5
-LAST	Len	"Hannah Young"
-LAST	Den	"UK election candidate"
-LAST	P106	Q19772737
-LAST	P3602	Q30173038	P768	Q1052235	P102	Q9630	P1111	15265	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)"
+Q76363682	P3602	Q30173038	P768	Q1052235	P102	Q9630	P1111	15265	P1352	2	S4656	"https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)"
 Q98539394	P3602	Q3586935	P768	Q1052235	P102	Q10647	P1111	7669	P1352	3	S4656	"https://en.wikipedia.org/wiki/North_Somerset_(UK_Parliament_constituency)"
 CREATE
 LAST	P31	Q5
